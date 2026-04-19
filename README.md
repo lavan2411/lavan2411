@@ -1,4 +1,6 @@
-![Banner](https://via.placeholder.com/800x200?text=Data+Analytics+Portfolio)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=200&section=header&text=Lavankumar%20Chiluka&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
 # 👋 Hi, I'm Lavankumar
 
 🎯 Aspiring Data Analyst | Power BI | Python | SQL
