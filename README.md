@@ -1,3 +1,4 @@
+![Banner](https://via.placeholder.com/800x200?text=Data+Analytics+Portfolio)
 # 👋 Hi, I'm Lavankumar
 
 🎯 Aspiring Data Analyst | Power BI | Python | SQL
