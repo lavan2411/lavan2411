@@ -42,6 +42,6 @@
 
 ## 📫 Connect with Me
 
-* LinkedIn: (add your link)
-* Email: (your email)
+* LinkedIn: www.linkedin.com/in/lavankumar-chiluka-222620229
+* Email: lavankumarchiluka24@gmail.com
 
