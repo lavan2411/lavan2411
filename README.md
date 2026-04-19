@@ -52,3 +52,4 @@
 <img src="https://raw.githubusercontent.com/lavan2411/lavan2411/output/snake.svg" alt="Snake animation" />
 
 ###
+![Snake animation](https://github.com/lavan2411/lavan2411/blob/output/snake.svg)
