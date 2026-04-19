@@ -1,50 +1,21 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=200&section=header&text=Lavankumar%20Chiluka&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+<h1 align="center">Hi 👋, I'm Chiluka Lavankumar</h1>
+<h3 align="center">A passionate Data Analyst and Data Scientist from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lavan2411&label=Profile%20views&color=0e75b6&style=flat" alt="lavan2411" /> </p>
+
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+
+- 📫 How to reach me **lavankumarchiluka24@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/lavankumar-chiluka-222620229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lavankumar-chiluka-222620229" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/chilukalavan2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/chilukalavan2004" height="30" width="40" /></a>
 </p>
-# 👋 Hi, I'm Lavankumar
 
-🎯 Aspiring Data Analyst | Power BI | Python | SQL
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
----
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lavan2411&show_icons=true&locale=en&layout=compact" alt="lavan2411" /></p>
 
-## 🚀 About Me
-
-* Passionate about transforming raw data into meaningful insights
-* Skilled in Power BI, Python, SQL, and Excel
-* Strong interest in business intelligence and analytics
-
----
-
-## 📊 Projects
-
-* 📌 Customer Segmentation (RFM Analysis)
-* 📌 Financial Performance Dashboard
-* 📌 Healthcare Patient Analysis
-
-👉 Check my portfolio:
-🔗 data-analytics-portfolio
-
----
-
-## 🛠 Skills
-
-* Power BI
-* Python (Pandas, NumPy)
-* SQL
-* Excel
-
----
-
-## 📈 What I’m Learning
-
-* Advanced SQL
-* Data Visualization best practices
-* Machine Learning basics
-
----
-
-## 📫 Connect with Me
-
-* LinkedIn: www.linkedin.com/in/lavankumar-chiluka-222620229
-* Email: lavankumarchiluka24@gmail.com
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lavan2411&" alt="lavan2411" /></p>
